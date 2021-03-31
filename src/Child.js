@@ -14,7 +14,7 @@ class Child extends Component {
       color: getRandomColor()
     });
     this.props.onClick();
-  }
+  };
 
   render() {
     return (
