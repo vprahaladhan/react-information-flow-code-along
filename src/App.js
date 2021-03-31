@@ -8,8 +8,8 @@ class App extends Component {
       <div className="App">
         <Parent />
       </div>
-    )
-  }
-}
+    );
+  };
+};
 
 export default App
